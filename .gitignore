@@ -11,4 +11,7 @@
 *.inf
 
 # Mobile Apps
-.apk
+*.apk
+
+# regedit Files
+*.zxc
