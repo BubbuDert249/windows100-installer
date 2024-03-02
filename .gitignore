@@ -1,0 +1,14 @@
+# Apps
+*.app
+*.exe
+
+# Log file
+*.log
+
+# Texts
+*.txt
+*.ini
+*.inf
+
+# Mobile Apps
+.apk
