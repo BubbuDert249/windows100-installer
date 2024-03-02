@@ -1,0 +1,9 @@
+ipconfigValue=checkwifi.connection.xwin
+treeValue=echo.alldir.xwin
+cd{dir}Value=goto.{dir}.xwin
+mkdir{name}Value=create.{name}.dir.xwin
+type nul>{name}Value=create.{name}.file.xwin
+deldir{name}Value=delete.{name}.dir.xwin
+del nul>{name}Value=delete.{name}.file.xwin
+textDisplay=("Windows 100 Command Line")
+type=true
