@@ -1,0 +1,7 @@
+vcs PATH:
+square-cmyk(0%, 0%, 100%, 0%) id=1
+frames {
+  frame-hsv(205°, 100%, 100%) ins=1 align=left rotate=|
+  frame-hsv(205°, 100%, 100%) ins=1 align=upcenter rotate=_
+  frame-hsv(205°, 100%, 100%) ins=1 align=right rotate=|
+}
