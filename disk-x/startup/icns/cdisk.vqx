@@ -1,1 +1,1 @@
-lnk=("https://win100.assets.com/c-disk/")
+shareAsset('ms://win100.assets/disks/sys%C/');
