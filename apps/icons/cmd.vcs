@@ -1,0 +1,10 @@
+vcs PATH:
+square-rgb(0,0,0) id=1
+rectangle-rgb(255,255,255) id=2
+close {
+  contentX-rgb(0,0,0) ins=2 align=right
+}
+cmds {
+  lineDown-rgb(255,255,255) ins=1 id=3
+  arrowRight-rgb(255,255,255) ins=1 left=3
+}
