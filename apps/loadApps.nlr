@@ -1,0 +1,6 @@
+data-xml0.192 {
+up(icon)
+down(name)
+}
+name = filename {no"ms- , .pak"}
+icon = [Parent]/icons/(name).vcs
